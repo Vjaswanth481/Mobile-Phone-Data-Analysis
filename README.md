@@ -1,4 +1,3 @@
-# Mobile-Phone-Data-Analysis
 # Mobile Phone Data Analysis
 
 ## Project Overview
