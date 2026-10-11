@@ -58,5 +58,5 @@ This project focuses on collecting mobile phone data from Flipkart and performin
 3. Open the notebook using Jupyter Notebook.
 4. Run the cells sequentially.
 
-Jaswanth
+
 
